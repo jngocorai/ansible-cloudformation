@@ -1,0 +1,4 @@
+---
+# here we assign variables for aws ec2 instances, elb
+region_name: us-east-1
+stack_name: "wordpress-prod"
