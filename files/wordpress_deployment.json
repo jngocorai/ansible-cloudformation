@@ -9,7 +9,7 @@
         "KeyName" : {
         "Description" : "Name of existing key to use for ssh in ec2 instances",
         "Type" : "String",
-        "Default" : "parking",
+        "Default" : "demo",
         "AllowedPattern" : "[a-zA-Z]*",
         "ConstraintDescription" : "Must be string of characters only"
 
